@@ -1,12 +1,12 @@
 
-Assignment: Understanding Operators in TypeScript**
+Assignment: Understanding Operators in TypeScript
 
 
 Instructions:
 1. Create a new TypeScript file (e.g., `operators.ts`) for this assignment.
 2. Complete the following tasks in the TypeScript file:
 
-Task 1: Arithmetic Operators**
+Task 1: Arithmetic Operators
 - Declare two variables, `num1` and `num2`, and initialize them with numerical values.
 - Use arithmetic operators (`+, -, *, /, %`) to perform the following operations and print the results:
   - Addition
